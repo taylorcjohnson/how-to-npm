@@ -1,0 +1,11 @@
+{
+  "name": "proj_test",
+  "version": "1.0.0",
+  "description": "Test project for creating a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor C. Johnson",
+  "license": "ISC"
+}
